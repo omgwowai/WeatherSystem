@@ -39,5 +39,8 @@ __pycache__/
 # Claude Code per-user settings
 .claude/settings.local.json
 
+# driving-unreal-via-mcp scratch introspection script, overwritten on every use
+/Content/Python/_explore.py
+
 # Keep these despite the patterns above
 !Config/
